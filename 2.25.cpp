@@ -1,20 +1,24 @@
 #include<stdio.h>
 int main()
 {
- printf("PPPPPPPPP\n");    //依題目打
- printf("    P   P\n");
- printf("    P   P\n");
- printf("    P   P\n");
- printf("     P P \n\n");
- printf("  JJ\n");
- printf(" J\n");
- printf("J\n");
- printf(" J\n");
- printf("  JJJJJJJ\n\n");
- printf("DDDDDDDDD\n");
- printf("D       D\n");
- printf("D       D\n");
- printf(" D     D\n");
- printf("  DDDDD\n");
+ printf("           Y\n");    //楊承騏Yang Cheng Chi 
+ printf("         Y\n");
+ printf("        Y\n");
+ printf("YYYYYYYY\n");
+ printf("        Y\n");
+ printf("         Y\n");
+ printf("           Y \n\n");
+ printf("    CCCCCCC\n");
+ printf("  CC       CC\n");
+ printf(" C           C\n");
+ printf("C             C\n");
+ printf("C             C\n");
+ printf(" C           C\n");
+ printf("    CCCCCCC\n");
+ printf("  CC       CC\n");
+ printf(" C           C\n");
+ printf("C             C\n");
+ printf("C             C\n");
+ printf(" C           C\n");
  return 0;
 }
