@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("*********        ***          *            *\n");      //¨ÌÃD¥Ø¥´ 
+	printf("*********        ***          *            *\n");      //ä¾é¡Œç›®æ‰“ 
     printf("*       *      *     *       ***          * *\n");
     printf("*       *     *       *     *****        *   *\n");
     printf("*       *     *       *       *         *     *\n");
