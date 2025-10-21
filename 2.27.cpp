@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main()
 {
-	printf("    *    \n"); //¤­¦æ¦C¦L 
+	printf("    *    \n"); //ç”¨äº”è¡Œå°å‡º
 	printf("   ***   \n");
 	printf("  *****  \n");
 	printf(" ******* \n");
 	printf("*********\n");
-	printf("    *    \n   ***   \n  *****  \n ******* \n*********\n");//³æ¦æ¦C¦L 
+	printf("    *    \n   ***   \n  *****  \n ******* \n*********\n");//ç”¨ä¸€è¡Œå°å‡º
 	return 0;
  } 
