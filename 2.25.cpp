@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
- printf("PPPPPPPPP\n");    //¨ÌÃD¥Ø¥´ 
+ printf("PPPPPPPPP\n");    //ä¾é¡Œç›®æ‰“
  printf("    P   P\n");
  printf("    P   P\n");
  printf("    P   P\n");
